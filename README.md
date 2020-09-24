@@ -8,3 +8,5 @@ In 2017, for the first time, Kaggle conducted an industry-wide survey to establi
 This notebook is a partial copy of https://www.kaggle.com/ash316/novice-to-grandmaster   
 
 This notebook was created as a part of demo stream for Yandex DataSphere product
+
+For full instruction for the demo step-by-step please go to file "Demo Yandex DataShere.pdf"
